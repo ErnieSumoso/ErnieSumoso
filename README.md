@@ -65,9 +65,9 @@
 
 | Icon | Project | Description | Status |
 |---|---|---|---|
-| <img align="center" height ="42px" src="projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| An application that helps students increase their chances of getting noticed by recruiters by significantly improving their resumes for targeted job descriptions.| <img align="center" height ="35px" src="projects/completed2.png"/> |
-| <img width="55" src="projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | An application that predicts the winning team in Dota 2 e-sports matches before they start. This classification problem involves various independent features and a large amount of data to analyze.| <img align="center" height ="35px" src="projects/completed2.png"/> |
-| <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| <img align="center" height ="35px" src="projects/completed2.png"/> |
+| <img align="center" height ="42px" src="projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| An application that helps students increase their chances of getting noticed by recruiters by significantly improving their resumes for targeted job descriptions.| <img align="center" height ="35px" src="projects/completed.png"/> |
+| <img width="55" src="projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | An application that predicts the winning team in Dota 2 e-sports matches before they start. This classification problem involves various independent features and a large amount of data to analyze.| <img align="center" height ="35px" src="projects/completed.png"/> |
+| <img width="55" src="projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate usage of words and/or yelling within audio files.| <img align="center" height ="35px" src="projects/completed.png"/> |
 
 <div align="center"> 
   <br/> <b>🦴 See you around! 💌 :) 🦴</b> <br/> <br/> 
