@@ -21,7 +21,7 @@
   <b> 🦴 I am a software developer with a huge passion for continuous learning and STEM topics.🦴</b> <br/>
   <b> 🦴‎ ‎ My current interests include data science and applying machine learning algorithms to‎ ‎ ‎🦴</b> <br/>
   <b>‎ 🦴‎ ‎ ‎ ‎ solve complex problems using real-world data. On my free time I like developing my‎ ‎ ‎ ‎‎🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills, building unique projects, and having people test them.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎🦴</b>
+  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills, building unique projects, and watching people test them.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎🦴</b>
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </div>
 
@@ -30,13 +30,11 @@
 </div>
 
 <h4 align="center">
-  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/> 🦴
   <code><a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"><img width="22" src="socials/linkedin.svg"> LinkedIn </a></code> 
   <code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="socials/instagram.svg"> Instagram </a></code>
   <code><a href="https://www.credly.com/users/ernie.ai" title="Credly"><img width="22" src="socials/credly.png"> Credly </a></code>
   <code><a href="https://leetcode.com/u/ErnieFlakes/" title="LeetCode"><img width="22" src="socials/leetcode.png"> LeetCode </a></code>
   <code><a href="https://www.hackerrank.com/profile/a20161018" title="HackerRank"><img width="22" src="socials/hackerrank.png"> HackerRank </a></code>
-  🦴 <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </h4>
 
 <div align="center"> 
@@ -44,19 +42,16 @@
 </div>
 
 <h5 align="center">
-  🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/> 🦴
   <img align="center" height ="42px" src="tools/python.png"> <code> <b> ‎‎‎Python </b> </code>  | 
   <img align="center" height ="35px" src="tools/sql.png"> <code> <b> ‎ SQL‎  </b> </code>  | 
   <img align="center" height ="42px" src="tools/git.jpg"> <code> <b> ‎ Git‎  </b> </code>  | 
   <img align="center" height ="37px" src="tools/aws.png"> <code> <b> ‎ AWS‎  </b> </code>  | 
-  <img align="center" height ="37px" src="tools/azure.png"> <code> <b> Azure ‎‎</b> </code> 
-  🦴 <br/> 🦴
+  <img align="center" height ="37px" src="tools/azure.png"> <code> <b> Azure ‎‎</b> </code> <br>
   <img align="center" height ="42px" src="tools/java.jpg"> <code> <b> ‎‎ Java </b> </code>  | 
   <img align="center" height ="37px" src="tools/mongodb.svg"> <code> <b> MongoDB </b> </code>  | 
   <img align="center" height ="42px" src="tools/csharp.png"> <code> <b> C# </b> </code>  | 
   <img align="center" height ="42px" src="tools/javascript.webp"> <code> <b> JavaScript </b> </code> | 
   <img align="center" height ="38px" src="tools/unity.png"> <code> <b> Unity  ‎‎</b> </code>
-  🦴 <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </h5>
 
 <div align="center"> 
@@ -77,9 +72,9 @@
   <img align="center" height ="352px" src="profile/vaporwave.gif" >
 </div>
 
-<div align="center"> 
+<!--<div align="center"> 
   Here's 1 more in case you didn't have enough: 🦴
-</div>
+</div>-->
 
 
 
