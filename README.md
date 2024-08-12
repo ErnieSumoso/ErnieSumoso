@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <b> to my personal GitHub profile! </b>
+  <b> to my GitHub profile! </b>
 </div>
   
 <div align="center">
@@ -18,10 +18,10 @@
 
 <div align="center">
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
-  <b> 🦴 I am a software developer with a huge passion for continuous learning and STEM topics.🦴</b> <br/>
-  <b> 🦴‎ ‎ My current interests include data science and applying machine learning algorithms to‎ ‎ ‎🦴</b> <br/>
-  <b>‎ 🦴‎ ‎ ‎ ‎ solve complex problems using real-world data. On my free time I like developing my‎ ‎ ‎ ‎‎🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills, building unique projects, and watching people test them.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎🦴</b>
+  <b> 🦴‎ ‎ ‎ ‎‎‎ ‎ ‎  ‎ ‎ I am a creative ML developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎  ‎ ‎ 🦴</b> <br/>
+  <b> 🦴‎ ‎‎‎STEM topics. My current interests include data science and applying machine learning‎ ‎ 🦴</b> <br/>
+  <b>‎ 🦴‎‎  ‎ ‎ ‎ ‎  to‎‎ solve complex problems using real-world data. On my free time I like building ‎ ‎ ‎ ‎ ‎‎🦴 </b> <br/> 
+  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ unique projects, running, gaming, gamedev, and playing the bass.‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎🦴</b>
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </div>
 
@@ -67,7 +67,7 @@
 
 
 <div align="center"> 
-  <br/> <b>🦴 See you around! 💌 :) 🦴</b> <br/> <br/> 
+  <br/> <b>🦴 See you around! 💌 🦴</b> <br/> <br/> 
 </div>
 
 <div align="center">
