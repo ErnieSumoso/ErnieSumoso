@@ -1,5 +1,3 @@
-<!--### Hi there 👋-->
-
 <div align="center">
   <img src="readme-files/profile/city-night.gif" align="center" width="400" height="200"/>
 </div>
