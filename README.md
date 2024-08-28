@@ -56,9 +56,9 @@
   <br/> <b> Most recent projects and contributions (🛠️): </b> <br/> <br/>
 </div>
 
-| Icon | Project | Description | Status |
+| Icon | Name | Description | Status |
 |---|---|---|---|
-| <img width="55" src="readme-files/projects/SIFM.png" /> | <a href="https://flakes1403.itch.io/someone-is-following-me"> Someone Is Following Me </a> | Horror videogame built in Unity, all game mechanics were programmed from scratch using C#.| <img align="center" width ="200px" src="readme-files/projects/completed.png"/> |
+| <img width="55" src="readme-files/projects/SIFM.png" /> | <a href="https://flakes1403.itch.io/someone-is-following-me"> Someone Is Following Me </a> | Horror videogame built in Unity, all game mechanics were programmed from scratch using C#. (Code will be uploaded soon) | <img align="center" width ="200px" src="readme-files/projects/completed.png"/> |
 | <img height ="45" src="readme-files/projects/impostor-syndrome-comparison-map.jpg"/> | <a href=https://github.com/ErnieSumoso/impostor-syndrome-comparison-map> Impostor Syndrome Comparison Map </a>‎ ‎| Web application that measures an Impostor Syndrome metric, plots 2D & 3D visualizations and experiments with clustering algorithms.| <img align="center" width ="200px" src="readme-files/projects/completed.png"/> |
 | <img height ="45" src="readme-files/projects/jobspymatcher.png"/> | <a href="https://github.com/NILodio/JobsPyMacher"> JobsPyMatcher </a>‎ ‎| Web application to improve resumes for a targeted job description. It involves various NLP techniques and an ML classification model to detect job industries. | <img align="center" width ="200px" src="readme-files/projects/completed.png"/> |
 | <img width="55" src="readme-files/projects/dota2analytics.jpg" /> | <a href="https://github.com/NILodio/dota2Analytics"> Dota2Analytics </a> | Web application that predicts the winning team of a Dota 2 e-sports match. This involves an ML classification model, front and back-end development.| <img align="center" width ="200px" src="readme-files/projects/completed.png"/> |
