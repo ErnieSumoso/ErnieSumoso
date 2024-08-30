@@ -17,9 +17,9 @@
 <div align="center">
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
   <b> 🦴‎ ‎ ‎ ‎‎‎ ‎ ‎  ‎ ‎ I am a creative ML developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎  ‎ ‎ 🦴</b> <br/>
-  <b> 🦴‎ ‎‎‎STEM topics. My current interests include data science and applying machine learning‎ ‎ 🦴</b> <br/>
-  <b>‎ 🦴‎‎  ‎ ‎ ‎ ‎  to‎‎ solve complex problems using real-world data. On my free time I like building ‎ ‎ ‎ ‎ ‎‎🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ unique projects, running, gaming, gamedev, and playing the bass.‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎🦴</b>
+  <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ ‎STEM topics. My current interests include software development and applying‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
+  <b>‎ 🦴‎‎  ‎ ‎ ‎machine learning‎ to‎‎ solve complex problems using real-world data. On my free time‎ ‎ ‎‎🦴 </b> <br/> 
+  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎I like building unique projects , running, gamedev, and playing the bass.‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 🦴</b>
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </div>
 
