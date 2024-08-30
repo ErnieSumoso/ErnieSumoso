@@ -24,7 +24,7 @@
 </div>
 
 <div align="center"> 
-  <br/> <b> My Socials (WOOOO!): </b> <br/>
+  <br/> <b> My Socials (WOOOO): </b> <br/>
 </div>
 
 <h4 align="center">
