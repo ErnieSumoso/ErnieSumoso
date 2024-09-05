@@ -29,8 +29,8 @@
 
 <h4 align="center">
   <code><a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"><img width="22" src="readme-files/socials/linkedin.svg"> LinkedIn </a></code> 
-  <code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="readme-files/socials/instagram.svg"> Instagram </a></code>
   <code><a href="https://www.credly.com/users/ernie.ai" title="Credly"><img width="22" src="readme-files/socials/credly.png"> Credly </a></code>
+  <code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="readme-files/socials/instagram.svg"> Instagram </a></code>
   <code><a href="https://leetcode.com/u/ErnieSumoso/" title="LeetCode"><img width="22" src="readme-files/socials/leetcode.png"> LeetCode </a></code>
   <code><a href="https://www.hackerrank.com/profile/ErnieSumoso" title="HackerRank"><img width="22" src="readme-files/socials/hackerrank.png"> HackerRank </a></code>
 </h4>
