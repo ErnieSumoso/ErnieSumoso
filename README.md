@@ -36,7 +36,7 @@
 </h4>
 
 <div align="center"> 
-  <br/> <b> What I've worked with (so far): </b> <br/>
+  <br/> <b> What I've worked with so far: </b> <br/>
 </div>
 
 <h5 align="center">
