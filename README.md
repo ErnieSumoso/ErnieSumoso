@@ -69,9 +69,9 @@
   <br/> <b>🦴 See you around! 💌 🦴</b> <br/> <br/> 
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img align="center" height ="352px" src="readme-files/profile/vaporwave.gif" >
-</div>
+</div>-->
 
 <!--<div align="center"> 
   Here's 1 more in case you didn't have enough: 🦴
