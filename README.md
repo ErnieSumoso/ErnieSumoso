@@ -16,10 +16,10 @@
 
 <div align="center">
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
-  <b> 🦴‎ ‎ ‎ ‎‎‎ ‎ ‎  ‎ ‎ I am a creative ML developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎  ‎ ‎ 🦴</b> <br/>
-  <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ ‎STEM topics. My current interests include software development and applying‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
-  <b>‎ 🦴‎‎  ‎ ‎ ‎machine learning‎ to‎‎ solve complex problems using real-world data. On my free time‎ ‎ ‎‎🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎I like building unique projects , running, gamedev, and playing the bass.‎ ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ 🦴</b>
+  <b> 🦴‎ ‎ ‎ ‎ ‎  ‎‎‎‎ ‎ ‎  ‎ ‎ I am a creative developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎ ‎ ‎  ‎ ‎ ‎ 🦴</b> <br/>
+  <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills. My current interests include gathering real-world data‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
+  <b>‎ 🦴‎‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎ ‎ ‎ ‎machine learning‎ models to‎‎ solve complex problems. On my free time‎ I like ‎ ‎ ‎  ‎‎ ‎‎ ‎  ‎  ‎‎‎🦴 </b> <br/> 
+  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎‎ ‎ ‎ ‎ ‎  building and applying unique projects and game development. ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎  ‎‎ ‎ ‎ ‎  ‎ ‎‎ ‎  ‎  ‎‎ ‎ ‎ ‎ ‎ 🦴</b>
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </div>
 
