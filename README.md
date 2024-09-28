@@ -18,8 +18,8 @@
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
   <b> 🦴‎ ‎ ‎ ‎ ‎  ‎‎‎‎ ‎ ‎  ‎ ‎ I am a creative developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎ ‎ ‎  ‎ ‎ ‎ 🦴</b> <br/>
   <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills. My current interests include gathering real-world data‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
-  <b>‎ 🦴‎‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎ ‎ ‎ ‎machine learning‎ models to‎‎ solve complex problems. On my free time‎ I like ‎ ‎ ‎  ‎‎ ‎‎ ‎  ‎  ‎‎‎🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎‎ ‎ ‎ ‎ ‎  building and applying unique projects and game development. ‎ ‎ ‎ ‎‎ ‎‎ ‎ ‎ ‎‎ ‎  ‎‎ ‎ ‎ ‎  ‎ ‎‎ ‎  ‎  ‎‎ ‎ ‎ ‎ ‎ 🦴</b>
+  <b>‎ 🦴‎‎ ‎ ‎  ‎ ‎  ‎‎‎ ‎‎ ‎ and applying machine learning‎ models to‎‎ solve complex problems. On my free ‎ ‎ ‎‎‎ 🦴 </b> <br/> 
+  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎‎ ‎ ‎ ‎ ‎   time‎ I like building unique projects and game development. ‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🦴</b>
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
 </div>
 
