@@ -1,20 +1,20 @@
-<div align="center">
+<!--<div align="center">
   <img src="readme-files/profile/city-night.gif" align="center" width="400" height="200"/>
 </div>
 
 <div align="center">
   <img src="readme-files/profile/welcome.gif" align="center">
-</div>
+</div> -->
 
 <div align="center">
-  <b> to my GitHub profile! </b>
+  <b> Welcome to my GitHub profile! </b>
 </div>
   
 <div align="center">
   <img src="readme-files/profile/biker-hotline-miami.gif" align="center" width="200" height="200">
 </div>
 
-<div align="center">
+-<div align="center">
   <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
   <b> 🦴‎ ‎ ‎ ‎ ‎  ‎‎‎‎ ‎ ‎  ‎ ‎ I am a creative developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎ ‎ ‎  ‎ ‎ ‎ 🦴</b> <br/>
   <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills. My current interests include gathering real-world data‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center"> 
-  <br/> <b> My Socials (WOOOO): </b> <br/>
+  <br/> <b> My Socials: </b> <br/>
 </div>
 
 <h4 align="center">
