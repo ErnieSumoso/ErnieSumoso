@@ -46,9 +46,7 @@
   <img align="center" height ="37px" src="readme-files/tools/aws.png"> <code> <b> ‎ AWS‎  </b> </code>  | 
   <img align="center" height ="37px" src="readme-files/tools/azure.png"> <code> <b> Azure ‎‎</b> </code> <br>
   <img align="center" height ="42px" src="readme-files/tools/java.jpg"> <code> <b> ‎‎ Java </b> </code>  | 
-  <img align="center" height ="37px" src="readme-files/tools/mongodb.svg"> <code> <b> MongoDB </b> </code>  | 
   <img align="center" height ="42px" src="readme-files/tools/csharp.png"> <code> <b> C# </b> </code>  | 
-  <img align="center" height ="42px" src="readme-files/tools/javascript.webp"> <code> <b> JavaScript </b> </code> | 
   <img align="center" height ="38px" src="readme-files/tools/unity.png"> <code> <b> Unity  ‎‎</b> </code>
 </h5>
 
