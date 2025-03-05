@@ -63,16 +63,12 @@
 | <img width="55" src="readme-files/projects/toxic-audio-detection.jpg" /> | <a href="https://github.com/NILodio/toxic-audio-detection"> Toxic Audio Detection </a> | Web application to detect and identify sections of inappropriate language and yelling within audio files. Trained a CNN for audio detection.| <img align="center" width ="30px" src="readme-files/projects/completed.png"/> |
 
 
-<!--<div align="center"> 
+<div align="center"> 
   <br/> <b>🦴 See you around! 💌 🦴</b> <br/> <br/> 
-</div>-->
+</div>
 
 <!--<div align="center">
   <img align="center" height ="352px" src="readme-files/profile/vaporwave.gif" >
-</div>-->
-
-<!--<div align="center"> 
-  Here's 1 more in case you didn't have enough: 🦴
 </div>-->
 
 
