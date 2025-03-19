@@ -7,7 +7,7 @@
 </div> -->
 
 <div align="center">
-  <b> Welcome to my GitHub profile! </b>
+  <b> Welcome to my GitHub profile </b>
 </div>
   
 <div align="center">
