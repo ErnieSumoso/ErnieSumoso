@@ -64,7 +64,7 @@
 
 
 <div align="center"> 
-  <br/> <b>🦴 See you around! 💌 🦴</b> <br/> <br/> 
+  <br/> <b>🦴 See you around! 🦴</b> <br/> <br/> 
 </div>
 
 <!--<div align="center">
