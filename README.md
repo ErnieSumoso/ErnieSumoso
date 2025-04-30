@@ -7,7 +7,7 @@
 </div> -->
 
 <div align="center">
-  <b> Welcome to my GitHub profile </b>
+  <b> Welcome to my GitHub profile!</b>
 </div>
   
 <div align="center">
@@ -15,12 +15,11 @@
 </div>
 
 <div align="center">
-  <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
-  <b> 🦴‎ ‎ ‎ ‎ ‎  ‎‎‎‎ ‎ ‎  ‎ ‎ I am a creative developer with a huge passion for continuous learning and‎ ‎ ‎ ‎‎‎  ‎ ‎ ‎  ‎ ‎ ‎ 🦴</b> <br/>
-  <b> 🦴 ‎ ‎ ‎ ‎ ‎ ‎ problem-solving skills. My current interests include gathering real-world data‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎🦴</b> <br/>
-  <b>‎ 🦴‎‎ ‎ ‎  ‎ ‎  ‎‎‎ ‎‎ ‎ and applying machine learning‎ models to‎‎ solve complex problems. On my free ‎ ‎ ‎‎‎ 🦴 </b> <br/> 
-  <b> 🦴‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎  ‎‎ ‎  ‎‎‎ ‎ ‎ ‎ ‎   time‎ I like building unique projects that include data analysis. ‎ ‎ ‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎  ‎‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎  ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🦴</b>
-  <br/> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br/>
+  <br> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br> <br>
+  I am a software developer with experience delivering solutions across banking, tax, and government sectors.
+  I have worked on automated testing for software QA using Java 17, front-end development with Angular 18, and 3D shape reconstruction using machine learning and CNNs in Python 3. I’ve also collaborated with engineers to deliver a variety of high-impact projects.
+  Recently, I completed a postgraduate degree in AI and Machine Learning. Currently building a videogame in Unity using C# 8.0.
+  <br> <br> 🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴🦴 <br>
 </div>
 
 <div align="center"> 
@@ -28,27 +27,29 @@
 </div>
 
 <h4 align="center">
-  <code><a href="https://www.linkedin.com/in/ernie-sumoso" title="LinkedIn"><img width="22" src="readme-files/socials/linkedin.svg"> LinkedIn </a></code> 
-  <code><a href="https://www.credly.com/users/ernie.ai" title="Credly"><img width="22" src="readme-files/socials/credly.png"> Credly </a></code>
-  <!--<code><a href="https://www.instagram.com/ernieluds1403/" title="Instagram"><img width="22" src="readme-files/socials/instagram.svg"> Instagram </a></code>-->
-  <code><a href="https://leetcode.com/u/ErnieSumoso/" title="LeetCode"><img width="22" src="readme-files/socials/leetcode.png"> LeetCode </a></code>
-  <code><a href="https://www.hackerrank.com/profile/ErnieSumoso" title="HackerRank"><img width="22" src="readme-files/socials/hackerrank.png"> HackerRank </a></code>
+   <a href="https://www.linkedin.com/in/erniesumoso"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
+   <a href="https://www.credly.com/users/ernie.ai"><img width="60" src="https://img.shields.io/badge/Credly-53bca6?logo=Credly"></a>
+   <a href="https://leetcode.com/u/ErnieSumoso/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"></a>
+   <a href="https://www.hackerrank.com/profile/ErnieSumoso"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
 </h4>
 
 <div align="center"> 
   <br/> <b> What I've worked with so far: </b> <br/>
 </div>
 
-<h5 align="center">
-  <img align="center" height ="42px" src="readme-files/tools/python.png"> <code> <b> ‎‎‎Python </b> </code>  | 
-  <img align="center" height ="35px" src="readme-files/tools/sql.png"> <code> <b> ‎ SQL‎  </b> </code>  | 
-  <img align="center" height ="42px" src="readme-files/tools/git.jpg"> <code> <b> ‎ Git‎  </b> </code>  | 
-  <img align="center" height ="37px" src="readme-files/tools/aws.png"> <code> <b> ‎ AWS‎  </b> </code>  | 
-  <img align="center" height ="37px" src="readme-files/tools/azure.png"> <code> <b> Azure ‎‎</b> </code> <br>
-  <img align="center" height ="42px" src="readme-files/tools/java.jpg"> <code> <b> ‎‎ Java </b> </code>  | 
-  <img align="center" height ="42px" src="readme-files/tools/csharp.png"> <code> <b> C# </b> </code>  | 
-  <img align="center" height ="38px" src="readme-files/tools/unity.png"> <code> <b> Unity  ‎‎</b> </code>
-</h5>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java%2017-%23ED8B00.svg?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python%203-3776AB?logo=python&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23%208.0-%23239120.svg?logo=cshrp&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff">
+  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity%206-%23000000.svg?logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white">
+</div>
 
 <div align="center"> 
   <br/> <b> Most recent projects and contributions (🛠️): </b> <br/> <br/>
