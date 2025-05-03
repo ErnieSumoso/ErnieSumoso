@@ -54,7 +54,6 @@
 <div align="center"> 
   <br/> <b> Most recent projects and contributions (🛠️): </b> <br/> <br/>
 </div>
-WIP
 | Icon | Name | Description | Status |
 |---|---|---|---|
 | <img width="55" src="readme-files/projects/SIFM.png" /> | <a href="https://flakes1403.itch.io/someone-is-following-me"> Someone Is Following Me </a> | Horror videogame built in Unity, all game mechanics were programmed from scratch using C#. (Code will be uploaded soon) | <img align="center" width ="30px" src="readme-files/projects/completed.png"/> |
