@@ -3,7 +3,7 @@
 </div>
   
 <div align="center">
-  <img src="readme-files/profile/biker-hotline-miami.gif" align="center" width="200" height="200">
+  <img src="readme-files/biker-hotline-miami.gif" align="center" width="200" height="200">
 </div>
 
 <div align="center"> <br>
@@ -55,6 +55,6 @@
 | <img src="https://img.shields.io/badge/Java%2017-%23ED8B00.svg?logo=openjdk&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff"> <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"> | Additional <a href="https://www.linkedin.com/in/erniesumoso/details/projects/"> completed side-projects </a>, and other projects from previous professional experiences (not publicly available)... | Completed and ongoing... |
 
 <div align="center">
-  <img align="center" height ="250px" src="readme-files/profile/vaporwave.gif" >
-  <img src="readme-files/profile/city-night.gif" align="center" height ="250px"/>
+  <img align="center" height ="250px" src="readme-files/vaporwave.gif" >
+  <img src="readme-files/city-night.gif" align="center" height ="250px"/>
 </div>
