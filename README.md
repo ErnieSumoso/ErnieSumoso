@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"> <br>
-  I am a software developer with experience delivering solutions across banking, tax, and government sectors.
+  I am a software engineer with experience delivering solutions across banking, tax, and government sectors.
   I have worked on automated testing for software QA using Java 17, front-end development with Angular 18, and 3D shape reconstruction using machine learning and CNNs in Python 3. I’ve also collaborated with engineers to deliver a variety of high-impact projects.
   Recently, I completed a postgraduate degree in AI and Machine Learning. Currently working as a software developer @ OPS and building a videogame in Unity using C# 8.0.
 </div>
