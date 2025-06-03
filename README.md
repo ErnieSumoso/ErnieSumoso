@@ -6,7 +6,7 @@
   <img src="readme-files/biker-hotline-miami.gif" align="center" width="200" height="200">
 </div>
 
-<div align="center"> <br>
+<div align="center"> <br> 
   I am a software engineer with experience delivering solutions across banking, tax, and government sectors.
   I have worked on automated testing for QA using Java 17, front-end development with Angular 18, and 3D shape reconstruction using machine learning and CNNs in Python 3. I’ve also collaborated with engineers to deliver a variety of projects. Recently completed a postgraduate degree in AI and Machine Learning. Currently working as a software dev @ OPS and building a videogame in Unity using C# 8.0.
 </div>
