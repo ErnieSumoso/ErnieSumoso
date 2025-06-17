@@ -20,7 +20,6 @@
    <a href="https://www.credly.com/users/ernie.ai"><img width="60" src="https://img.shields.io/badge/Credly-53bca6?logo=Credly"></a>
    <a href="https://www.hackerrank.com/profile/ErnieSumoso"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
    <a href="https://leetcode.com/u/ErnieSumoso/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"></a>
-   <!-- Need to add instagram -->
 </h4>
 
 <div align="center"> 
