@@ -18,8 +18,8 @@
 <h4 align="center">
    <a href="https://www.linkedin.com/in/erniesumoso"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"></a>
    <a href="https://www.credly.com/users/ernie.ai"><img width="60" src="https://img.shields.io/badge/Credly-53bca6?logo=Credly"></a>
-   <a href="https://www.hackerrank.com/profile/ErnieSumoso"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
    <a href="https://leetcode.com/u/ErnieSumoso/"><img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06"></a>
+   <a href="https://www.hackerrank.com/profile/ErnieSumoso"><img src="https://img.shields.io/badge/HackerRank-000000?logo=hackerrank"></a>
 </h4>
 
 <div align="center"> 
