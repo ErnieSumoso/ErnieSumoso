@@ -52,7 +52,6 @@
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/slack-chatbot">Slack Chatbot Template for a Slack workspace</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/impostor-syndrome-comparison-map">2024 National Inter-University Big Data and AI Challenge - Impostor Syndrome Comparison Map</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![AWS][AWS] ![Git][Git] | JobsPyMatcher: targeted resume optimization tool for students using NLP techniques <a href="https://github.com/ErnieSumoso/data-analysis-notebooks/blob/master/Predictive%20Analysis/10%20Predictive%20Analysis%20-%20Resume%20Optimization%20for%20Targeted%20Job%20Description.ipynb">[Notebook]</a> <a href="https://github.com/NILodio/JobsPyMacher">[Repository]</a> | Completed (no further updates planned) |
-| ![Java17][Java17] ![Oracle][Oracle] ![Angular][Angular] ![Git][Git] ![TypeScript][TypeScript] ![Postgres][Postgres] ![Azure][Azure] ![Python3][Python3] | Additional <a href="https://www.linkedin.com/in/erniesumoso/details/projects/">completed side-projects</a>, and other projects from previous professional experiences (not publicly available)... | Completed (no further updates planned) |
 
 
 <div align="center">
