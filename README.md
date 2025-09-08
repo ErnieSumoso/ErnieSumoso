@@ -46,8 +46,8 @@
 
 | Technologies | Project | Status |
 |-------------|---------|--------|
+| ![Unity6][Unity6] ![C#][C#] ![Git][Git] | 3D First-Person-View Videogame [private repo] | In-progress (2025 demo release planned) |
 | ![C++][C++] ![Qt][Qt] ![Git][Git] | <a href="https://github.com/ErnieSumoso/trackapp">General Task Tracking Desktop Application</a> (scope TBD) | On-Hold |
-| ![Unity6][Unity6] ![C#][C#] ![Git][Git] | 3D Kitchen Simulator First-Person-View Videogame [private repo] | In-progress (2025 demo release) |
 | ![Python3][Python3] ![AWS][AWS] ![Git][Git] | <a href="https://github.com/ErnieSumoso/3d-shape-reconstruction">Deep Learning for Shape Reconstruction: Converting 2D Images into 3D Voxel Grids Using ShapeNet Data</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/slack-chatbot">Slack Chatbot Template for a Slack workspace</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/impostor-syndrome-comparison-map">2024 National Inter-University Big Data and AI Challenge - Impostor Syndrome Comparison Map</a> | Completed (no further updates planned) |
