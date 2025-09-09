@@ -5,12 +5,16 @@
 <div align="center">
   <img src="readme-files/biker-hotline-miami.gif" align="center" width="200" height="200">
 </div>
+<br>
 
-<div align="center"> <br>
-  I am a software engineer with experience delivering solutions across banking, tax, and government sectors.
-  I have worked on automated testing for QA using Java 17, front-end development with Angular 18, and 3D shape reconstruction using machine learning and CNNs in Python 3. I’ve also collaborated with engineers to deliver a variety of projects. Recently completed a postgraduate degree in AI and Machine Learning. Currently working as a software dev at OPS and building a videogame in Unity using C# 8.0.
-</div>
+I am a software engineer with experience delivering solutions across the banking, tax, and government sectors. My work spans:
+- 3D shape reconstruction, data processing, machine learning, NLP and CNNs using Python 3
+- QA automation with Java 17 and Selenium
+- Web front-end development using TypeScript, Angular 18
 
+I have collaborated with engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
+- Working as a Software Developer at the Ontario Public Service
+- Building a video game in Unity 6 (C# 8.0) as a personal project
 <div align="center"> 
   <br/> <b> My Socials (WOOOO🎉): </b> <br/>
 </div>
