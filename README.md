@@ -11,7 +11,7 @@ I am a software engineer with experience delivering solutions across the banking
 - Data analytics and AI projects using Python 3
 - 3D shape reconstruction, data processing, machine learning, NLP and CNNs using Python 3
 - QA automation with Java 17 and Selenium
-- Front-end w eb development using TypeScript, Angular 18
+- Front-end web development using TypeScript, Angular 18
 
 I have collaborated with engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
 - Working as a Software Developer at the Ontario Public Service
