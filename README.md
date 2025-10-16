@@ -11,7 +11,6 @@ I am a software engineer with experience delivering solutions across the banking
 - Data analytics and AI projects using Python 3
 - 3D shape reconstruction, data processing, machine learning, NLP and CNNs using Python 3
 - QA automation with Java 17 and Selenium
-- Front-end web development using TypeScript, Angular 18
 
 I have collaborated with engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
 - Working as a Software Developer at the Ontario Public Service
@@ -36,8 +35,6 @@ I have collaborated with engineers on diverse projects, recently completed a pos
 ![C#][C#]
 ![Git][Git]
 ![Oracle][Oracle]
-![Angular][Angular]
-![TypeScript][TypeScript]
 ![Postgres][Postgres]
 ![Unity6][Unity6]
 ![AWS][AWS]
@@ -74,8 +71,6 @@ I have collaborated with engineers on diverse projects, recently completed a pos
 [AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
 [Java17]: https://img.shields.io/badge/Java%2017-%23ED8B00.svg?logo=openjdk&logoColor=white
 [Oracle]: https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff
-[Angular]: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white
-[TypeScript]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff
 [Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
 [Azure]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white
 
