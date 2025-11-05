@@ -7,15 +7,15 @@
 </div>
 <br>
 
-I am a software engineer with experience delivering solutions across the banking, tax, and government sectors. My work spans:
+I am a software engineer with experience delivering solutions across the banking, tech, and government sectors. My work includes:
 - Data analytics and AI projects using Python 3
-- 3D shape reconstruction, data processing, machine learning, NLP and CNNs using Python 3
-- QA automation with Java 17 and Selenium
+- 3D shape reconstruction (computer vision), data processing, machine learning, NLP and CNNs using Python 3
+- Front-end development using TypeScript & Angular 17, and back-end using Java & Spring Boot
+- QA automation with Java 17, Jenkins, Selenium, and TestNG
 
-I have collaborated with engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
+I have collaborated with other engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
 - Working as a Software Developer at the Ontario Public Service
-- Building a video game in Unity 6 (C# 8.0) as a personal project
-
+- Building a video game in Unity 6 (C# 8.0) as a personal fun project
 
 <div align="center"> 
   <br/> <b> What I've worked with (So far 👀): </b> <br/>
@@ -26,6 +26,7 @@ I have collaborated with engineers on diverse projects, recently completed a pos
 ![C#][C#]
 ![Git][Git]
 ![Oracle][Oracle]
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20">
 ![Postgres][Postgres]
 ![Unity6][Unity6]
 ![AWS][AWS]
