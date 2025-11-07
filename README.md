@@ -27,7 +27,6 @@ I have collaborated with other engineers on diverse projects, recently completed
 ![Git][Git]
 ![Oracle][Oracle]
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20">
-![Postgres][Postgres]
 ![Unity6][Unity6]
 ![AWS][AWS]
 ![Azure][Azure]
@@ -74,6 +73,5 @@ I have collaborated with other engineers on diverse projects, recently completed
 [AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white
 [Java17]: https://img.shields.io/badge/Java%2017-%23ED8B00.svg?logo=openjdk&logoColor=white
 [Oracle]: https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff
-[Postgres]: https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white
 [Azure]: https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white
 
