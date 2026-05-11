@@ -7,31 +7,14 @@
 </div>
 <br>
 
-I am a software engineer with experience delivering solutions across the banking, tech, and government sectors. My work includes:
-- Data analytics and AI projects using Python 3
+I am a data analytics and AI professional with experience delivering solutions across the banking, tech, and government sectors. My work includes:
+- Data processing and AI projects using Python 3
 - 3D shape reconstruction (computer vision), data processing, machine learning, NLP and CNNs using Python 3
-- Front-end development using TypeScript & Angular 17, and back-end using Java & Spring Boot
-- QA automation with Java 17, Jenkins, Selenium, and TestNG
+- PowerBI reporting dashboards
 
 I have collaborated with other engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
-- Working as a Software Developer at the Ontario Public Service
-- Building a video game in Unity 6 (C# 8.0) as a personal fun project
+- Working as a Data Analytics Co-op at the Ontario Public Service
 
-<div align="center"> 
-  <br/> <b> What I've worked with (So far 👀): </b> <br/>
-</div>
-
-![Java17][Java17]
-![Python3][Python3]
-![C#][C#]
-![Git][Git]
-![Oracle][Oracle]
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20">
-![Unity6][Unity6]
-![AWS][AWS]
-![Azure][Azure]
-![C++][C++]
-![Qt][Qt]
 
 <div align="center"> 
   <br/> <b> My Socials (WOOOO🎉): </b> <br/>
@@ -50,8 +33,6 @@ I have collaborated with other engineers on diverse projects, recently completed
 
 | Technologies | Project | Status |
 |-------------|---------|--------|
-| ![Unity6][Unity6] ![C#][C#] ![Git][Git] | 3D First-Person-View Kitchen Simulator Videogame [private repo] | In-progress (2025 demo release planned) |
-| ![C++][C++] ![Qt][Qt] ![Git][Git] | <a href="https://github.com/ErnieSumoso/trackapp">General Task Tracking Desktop Application</a> (scope TBD) | On-Hold |
 | ![Python3][Python3] ![AWS][AWS] ![Git][Git] | <a href="https://github.com/ErnieSumoso/3d-shape-reconstruction">Deep Learning for Shape Reconstruction: Converting 2D Images into 3D Voxel Grids Using ShapeNet Data</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/slack-chatbot">Slack Chatbot Template for a Slack workspace</a> | Completed (no further updates planned) |
 | ![Python3][Python3] ![Git][Git] | <a href="https://github.com/ErnieSumoso/impostor-syndrome-comparison-map">2024 National Inter-University Big Data and AI Challenge - Impostor Syndrome Comparison Map</a> | Completed (no further updates planned) |
