@@ -7,13 +7,6 @@
 </div>
 <br>
 
-I am a data analytics and AI professional with experience delivering solutions across the banking, tech, and government sectors. My work includes:
-- Data processing and AI projects using Python 3
-- 3D shape reconstruction (computer vision), data processing, machine learning, NLP and CNNs using Python 3
-- PowerBI reporting dashboards
-
-I have collaborated with other engineers on diverse projects, recently completed a postgraduate degree in AI & Machine Learning, and am currently:
-- Working as a Data Analytics Co-op at the Ontario Public Service
 
 
 <div align="center"> 
