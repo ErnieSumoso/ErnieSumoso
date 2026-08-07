@@ -2,7 +2,7 @@
   <b> Welcome to my profile! </b>
   <br>
   <br>
-  <img src="images/biker-hotline-miami.gif" align="center" width="200" height="200">
+  <img src="readme-files/biker-hotline-miami.gif" align="center" width="200" height="200">
   <br>
   <br>
   My Links:
@@ -14,5 +14,5 @@
   Feel free to explore my projects and experiments.
   <br>
   <br>
-  <img src="images/retro-space-by-nick-fairbanks.gif" align="center" width="350">
+  <img src="readme-files/retro-space-by-nick-fairbanks.gif" align="center" width="350">
 </div>
